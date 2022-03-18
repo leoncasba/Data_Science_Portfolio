@@ -1,0 +1,198 @@
+head:
+  title: "Leonardo Castro's Data Science Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello!"
+  subtitle: "Welcome to my Data Science Portfolio.."
+  description: "I am glad to see you here. This is the collection of some of my favorite projects I made during my free time and my Master's Degree. I believe <strong>data storytelling</strong> is the key to communicate actionable insights, so here you will find some business related cases resolved through multiple analytical approaches where I share my findings aimed to solve and answer specific business questions."
+  image:
+    x: "img/intro.gif"
+    _2x: "img/intro.gif"
+  imageMobile:
+    x: "img/intro.gif"
+    _2x: "img/intro.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Leonardo"
+    URL: "mailto:lbarrantes145@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/leonardo-castro-barrantes/"
+
+    - icon: "github"
+      URL: "https://github.com/leoncasba"
+
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    <strong>I am a data enthusiast.</strong> I strongly believe data is the most valuable asset and accelerator
+    for process improvement and decision making.
+    </p>
+    <p class="lead">
+    <strong>My area of focus is applying data science to business.</strong> I am passionate about learning and my big curiosity give me the aptitude to dive deep into business processes 
+     looking for quality gaps, improvement opportunities and any insight aimed to make smarter and agile decisions.
+    </p>
+      </p>
+    <p class="lead">
+    <strong>I love  working at multicultural and diverse environments.</strong> I have lived in Costa Rica, Brazil, Germany and Spain, which has provided me an international background as well as
+    it have made me speak spanish, english, portuguese and a little german.
+      <p class="lead">
+    Besides being a data enthusiast, <strong>my biggest passion is the music</strong>, which has provided me the creativity and initiative to develop a personal project as a House music DJ.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/leonardo-castro-barrantes/"
+  image:
+    x: "img/1.png"
+    _2x: "img/1.png"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "I have +2 years of experience working within e-commerce fast paced environments by supporting Product Compliance and Payment Risk Operations. I have contributed leveraging data into actionable insights used by business stakeholders to drive decision making and improve customer experience."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/leonardo-castro-barrantes/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "/cv/resume-matt.pdf"
+
+  items:
+    - title: "Product Compliance Sr. Associate"
+      company: "Amazon"
+      duration: "Jul 2020 - Sep 2021"
+
+    - title: "Fraud Investigation Analyst"
+      company: "Amazon"
+      duration: "Aug 2019 - Jul 2020"
+
+    - title: "GIS Researcher"
+      company: "School of Civil Engineering - TEC"
+      duration: "Feb 2019 - Jul 2019"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Universitat Politecnica de Valencia"
+      year: "2021-2023"
+      degree: "Master of Science in Data Analytics, Process Improvement and Decision Making Engineering"
+
+    - university: "Tecnologico de Costa Rica"
+      year: "2020-2021"
+      degree: "Associate's Degree in Data Analytics"
+      
+    - university: "Tecnologico de Costa Rica"
+      year: "2015-2020"
+      degree: "Bachelor of Science in Forest Engineering"
+
+
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Predicting prospective customers to get a personal loan in a financial institution"
+      description: "This analysis help Business Development and Marketing Teams to create product & marketing strategies targeted to those prospective customers more likely to become personal loan customers and ensure its efforts and resources are going to be spent on the right people."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Markdown"
+        URL: "https://leoncasba.github.io/html_hosting_sl_project//Predicting_potential_loan_cxs.html"
+      image:
+        x: "img/works/loan.gif"
+        _2x: "img/works/loan.gif"
+      is_even: false
+      
+    - title: "Exploring and understanding listeners behavior in Music Streaming Services"
+      description: "If data visualization is a mix of science and art, what is better than mixing data storytelling with the most beautiful art: MUSIC? Let's find out what Spotify data can tell about music consumption in different corners around the globe."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "In Progress..."
+        URL: 
+      image:
+        x: "img/works/music.gif"
+        _2x: "img/works/music.gif"
+      is_even: true
+
+  
+
+    
+# contact
+contact:
+  enable: true
+  title: "Contact"
+    
+  image:
+    x: "img/123.png"
+    _2x: "img/123.png"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:your-email@gmail.com'
+    
+  phone:
+    title: "Phone Number"
+    number: "+34 633 30 1753"
+  email:
+    title: "Email"
+    email: "lbarrantes145@gmail.com"
+  address:
+    title: "Address"
+    address: "Valencia, Spain"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
