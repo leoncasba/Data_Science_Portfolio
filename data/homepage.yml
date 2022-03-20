@@ -167,7 +167,7 @@ client_and_work:
 # contact
 contact: "Contact"
   enable: true
-  title: 
+  title: "Contact"
     
   image:
     x: "img/123.png"
