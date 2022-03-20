@@ -6,7 +6,7 @@ showcase:
   enable: true
   title: "Hello!"
   subtitle: "Welcome to my Data Science Portfolio.."
-  description: "I am glad to see you here. This is the collection of some of my favorite projects I made during my free time and my Master's Degree. I believe <strong>data storytelling</strong> is the key to communicate actionable insights, so here you will find some business related cases resolved through multiple analytical approaches where I share my findings aimed to solve and answer specific business questions."
+  description: "I am glad to see you here. This is the collection of some of my favorite projects I made during my free time and Master's Degree. I believe <strong>data storytelling</strong> is the key to communicate actionable insights, so here you will find some business related cases approached by multiple analytical techniques where I share creatively my findings aimed to solve and answer specific business questions."
   image:
     x: "img/intro.gif"
     _2x: "img/intro.gif"
@@ -47,10 +47,6 @@ about:
       <p class="lead">
     Besides being a data enthusiast, <strong>my biggest passion is the music</strong>, which has provided me the creativity and initiative to develop a personal project as a House music DJ.
     </p>
-  button:
-    icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "https://www.linkedin.com/in/leonardo-castro-barrantes/"
   image:
     x: "img/1.png"
     _2x: "img/1.png"
@@ -97,7 +93,7 @@ education:
       
     - university: "Tecnológico de Costa Rica"
       year: "2015-2020"
-      degree: "Bachelor of Science in Forest Engineering"
+      degree: "Bachelor of Science in Timber Engineering"
 
 
 
