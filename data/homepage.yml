@@ -67,7 +67,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "/cv/resume-matt.pdf"
+    URL: "/cv/Leonardo Castro CV - Data Analyst.pdf"
 
   items:
     - title: "Product Compliance Sr. Associate"
