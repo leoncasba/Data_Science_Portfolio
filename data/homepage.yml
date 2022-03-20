@@ -165,7 +165,7 @@ client_and_work:
 
     
 # contact
-contact:
+contact: "Contact"
   enable: true
   title: 
     
