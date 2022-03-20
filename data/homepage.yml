@@ -170,8 +170,8 @@ contact:
   title: "Contact"
     
   image:
-    x: "img/123.png"
-    _2x: "img/123.png"
+    x: "img/card.png"
+    _2x: "img/card.png"
     
   button:
     icon: "icon-mail-fill"
