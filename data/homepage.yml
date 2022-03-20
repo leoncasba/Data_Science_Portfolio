@@ -87,7 +87,7 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "Universitat Politecnica de Valencia"
+    - university: "Universidad Politécnica de Valencia (UPV)"
       year: "2021-2023"
       degree: "Master of Science in Data Analytics, Process Improvement and Decision Making Engineering"
 
