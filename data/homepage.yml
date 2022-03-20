@@ -47,6 +47,10 @@ about:
       <p class="lead">
     Besides being a data enthusiast, <strong>my biggest passion is the music</strong>, which has provided me the creativity and initiative to develop a personal project as a House music DJ.
     </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.sethbilliau.com"
   image:
     x: "img/1.png"
     _2x: "img/1.png"
