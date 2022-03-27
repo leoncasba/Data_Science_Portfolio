@@ -150,7 +150,18 @@ client_and_work:
         _2x: "img/works/loan.gif"
       is_even: false
       
-    - title: "Exploring and understanding listeners behavior in Music Streaming Services"
+    - title: "Customer Segmentation in Retail e-commerce"
+      description: "Who are our Best Customers, the Loyal Ones, the Biggest Spenders, The Almost Lost??? Let's find out by diving deep on e-commerce startup data finding out who are its customers in order to perform a segmentation analysis using RFM and K-means Clustering aimed to characterize each segment and provide recommendations based on customer profile."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "In Progress..."
+        URL: 
+      image:
+        x: "img/works/segmentation.gif"
+        _2x: "img/works/segmentation.gif"
+      is_even: true
+
+ - title: "Exploring and understanding listeners behavior in Music Streaming Services"
       description: "If data visualization is a mix of science and art, what is better than mixing data storytelling with the most beautiful art: MUSIC? Let's find out what Spotify data can tell about music consumption in different corners around the globe."
       button:
         icon: "icon-arrow-right"
