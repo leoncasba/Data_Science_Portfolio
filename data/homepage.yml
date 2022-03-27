@@ -140,7 +140,7 @@ client_and_work:
 
   works:
     - title: "Predicting prospective customers to get a personal loan in a financial institution"
-      description: "This analysis help Business Development and Marketing Teams to create product & marketing strategies targeted to those prospective customers more likely to become personal loan customers and ensure its efforts and resources are going to be spent on the right people."
+      description: "I trained and tested a model able to predict prospective loan customers as well as know which characteristics make them more likely to get it. This type of analysis help Business Development and Marketing Teams to create product & marketing strategies targeted to those prospective customers more likely to become personal loan customers and ensure efforts and resources are going to be spent and directed on the right people."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Markdown"
