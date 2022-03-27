@@ -144,7 +144,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Markdown"
-        URL: "https://leoncasba.github.io/html_hosting_sl_project//Predicting_potential_loan_cxs.html"
+        URL: "https://leoncasba.github.io/html_hosting_sl_project/Predicting_potential_loan_cxs.html"
       image:
         x: "img/works/loan.gif"
         _2x: "img/works/loan.gif"
