@@ -160,7 +160,7 @@ client_and_work:
       image:
         x: "img/works/loan.gif"
         _2x: "img/works/loan.gif"
-      is_even: false
+      is_even: true
 
     - title: "Exploring and understanding listeners behavior in Music Streaming Services"
       description: "If data visualization is a mix of science and art, what is better than mixing data storytelling with the most beautiful art: MUSIC? Let's find out what Spotify data can tell about music consumption in different corners around the globe."
