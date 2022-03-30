@@ -45,7 +45,7 @@ about:
     <strong>I love  working at multicultural and diverse environments.</strong> I have lived in Costa Rica, Brazil, Germany and Spain, which has provided me an international background as well as
     it have made me speak spanish, english, portuguese and a little german.
       <p class="lead">
-    Besides being a data enthusiast, I love to create things and <strong>my biggest passion is the music</strong>, which has provided me the creativity and initiative to develop a personal project as a House music DJ.
+    Besides being a data enthusiast, I love to create new things and <strong>my biggest passion is the music</strong>, which has provided me the creativity and initiative to develop a personal project as a House music DJ.
     </p>
   button:
     icon: "icon-smile-fill"
@@ -156,7 +156,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Project"
-        URL: "https://leoncasba.github.io/predicting_potential_loan_customers/Predicting_potential_loan_customers.html"
+        URL: "https://leoncasba.github.io/predicting_potential_loan_customers/predicting_potential_loan_customers_bank.html"
       image:
         x: "img/works/loan.gif"
         _2x: "img/works/loan.gif"
