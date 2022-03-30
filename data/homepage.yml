@@ -147,8 +147,8 @@ client_and_work:
         btnText: "Launch Project"
         URL: https://leoncasba.github.io/Customer_Segmentation_ecommerce/customer_segmentation_business_case.html
       image:
-        x: "img/works/segmentation.gif"
-        _2x: "img/works/segmentation.gif"
+        x: "img/works/segmentation2.gif"
+        _2x: "img/works/segmentation2.gif"
       is_even: true
       
     - title: "Predicting prospective customers to get a personal loan in a financial institution"
