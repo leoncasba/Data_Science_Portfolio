@@ -105,7 +105,9 @@ education:
 client_and_work:
   title: "Portfolio"
   enable: true
- enable_clients: false
+  
+  
+  enable_clients: false
   clients:
     - logo:
         x: "img/clients/asgardia.png"
