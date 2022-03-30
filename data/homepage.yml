@@ -105,39 +105,6 @@ education:
 client_and_work:
   title: "Portfolio"
   enable: true
-  
-  enable_clients: false
-  clients:
-    - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
-
-    - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
-
-    - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
-
-    - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
-
-    - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
-
-    - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
-
   works:
     - title: "Customer Segmentation in Retail e-commerce"
       description: "Who are the Best Customers, the Loyal Ones, the Promising Customers, the Lost and Cheap??? Let's find out by diving deep on e-commerce startup data finding out who are their customers in order to perform a segmentation analysis using RFM and K-means Clustering aimed to characterize each segment and provide recommendations based on customer profile."
