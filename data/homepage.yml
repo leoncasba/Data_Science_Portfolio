@@ -115,7 +115,7 @@ client_and_work:
       image:
         x: "img/works/segmentation.gif"
         _2x: "img/works/segmentation.gif"
-      is_even: false
+      is_even: true
       
     - title: "Predicting prospective customers to get a personal loan in a financial institution"
       description: "I trained and tested a model able to predict prospective loan customers as well as know which characteristics make them more likely to get it. This type of analysis help Business Development and Marketing Teams to create product & marketing strategies targeted to those prospective customers more likely to become personal loan customers and ensure efforts and resources are going to be spent and directed on the right people."
@@ -126,7 +126,7 @@ client_and_work:
       image:
         x: "img/works/loan.gif"
         _2x: "img/works/loan.gif"
-      is_even: false
+      is_even: true
 
  - title: "Exploring and understanding listeners behavior in Music Streaming Services"
       description: "If data visualization is a mix of science and art, what is better than mixing data storytelling with the most beautiful art: MUSIC? Let's find out what Spotify data can tell about music consumption in different corners around the globe."
@@ -137,7 +137,7 @@ client_and_work:
       image:
         x: "img/works/music.gif"
         _2x: "img/works/music.gif"
-      is_even: false
+      is_even: true
 
   
 # contact
