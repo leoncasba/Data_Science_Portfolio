@@ -6,7 +6,7 @@ showcase:
   enable: true
   title: "Hello!"
   subtitle: "Welcome to my Data Science Portfolio.."
-  description: "I am glad to see you here. This is the collection of some of my favorite projects I made during my free time and Master's Degree. I believe <strong>data storytelling</strong> is the key to communicate actionable insights, so here you will find some business related cases approached by multiple analytical techniques where I share creatively my findings aimed to solve and answer specific business questions."
+  description: "I am glad to see you here. This is a collection of some of my favorite projects I made during my free time and master's. I believe <strong>data storytelling</strong> is the key to communicate actionable insights, so here you will find some business related cases approached by multiple analytical techniques where I share creatively my findings aimed to solve and answer specific business questions."
   image:
     x: "img/intro.gif"
     _2x: "img/intro.gif"
@@ -58,7 +58,7 @@ about:
 # experience
 experience:
   enable: true
-  title: "Experience"
+  title: "Work Experience"
   description: "I have +2 years of experience working within e-commerce fast paced environments by supporting Product Compliance and Payment Risk Operations. I have contributed leveraging data into actionable insights used by business stakeholders to drive decision making and improve customer experience."
   button:
     icon: "icon-linkedin-fill"
@@ -141,7 +141,7 @@ client_and_work:
 
   works:
     - title: "Customer Segmentation in Retail e-commerce"
-      description: "Who are the Best Customers, the Loyal Ones, the Promising Customers, the Lost and Cheap??? Let's find out and dive deep on a retail e-commerce data. I explored who are its customers by perform a segmentation analysis using RFM and K-means Clustering aimed to characterize each customer segment and provide recommendations based on customer profile."
+      description: "Who are the Best Customers, the Loyal Ones, the Promising Ones, the Lost and Cheap??? Let's find out and dive deep on a retail e-commerce data. I explored who are the customers by performing a segmentation analysis using RFM and K-means Clustering aimed to characterize each customer segment and provide recommendations based on customer profile."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Project"
