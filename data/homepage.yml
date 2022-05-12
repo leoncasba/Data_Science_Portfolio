@@ -49,8 +49,8 @@ about:
     </p>
   button:
     icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL:
+    btnText: "My Music Project"
+    URL: "https://linktr.ee/leoncasba"
   image:
     x: "img/1.png"
     _2x: "img/1.png"
