@@ -59,7 +59,7 @@ about:
 experience:
   enable: true
   title: "Work Experience"
-  description: "I have +2 years of experience working within e-commerce fast paced environments by supporting Product Compliance and Payment Risk Operations. I have contributed leveraging data into actionable insights used by business stakeholders to drive decision making and enhance customer experience."
+  description: "I have +2 years of experience working in fast-paced and demanding environments within e-commerce and IT Consulting. I have provided data-oriented solutions to resolve business problems and drive decision making in the context of Fraud Analytics, Product Compliance and Business Intelligence."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -70,6 +70,10 @@ experience:
     URL: "/cv/Leonardo Castro CV - Data Analyst.pdf"
 
   items:
+  - title: "Data Analytics Consultant"
+      company: "NUNSYS"
+      duration: "July 2022 - Now"
+      
     - title: "Product Compliance Sr. Associate"
       company: "Amazon"
       duration: "Jul 2020 - Sep 2021"
@@ -77,10 +81,6 @@ experience:
     - title: "Fraud Investigation Analyst"
       company: "Amazon"
       duration: "Aug 2019 - Jul 2020"
-
-    - title: "GIS Researcher"
-      company: "School of Civil Engineering - TEC"
-      duration: "Feb 2019 - Jul 2019"
 
 # education
 education:
