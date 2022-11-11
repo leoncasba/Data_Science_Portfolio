@@ -70,7 +70,7 @@ experience:
     URL: "/cv/Leonardo Castro CV - Data Analyst.pdf"
 
   items:
-  - title: "Data Analytics Consultant"
+  - title: "Data & Analytics Consultant"
       company: "NUNSYS"
       duration: "July 2022 - Now"
       
@@ -89,7 +89,7 @@ education:
   items:
     - university: "Universitat Politècnica de València"
       year: "2021-2023"
-      degree: "Master of Science in Data Analytics, Process Improvement and Decision Making Engineering"
+      degree: "M.Sc. in Data Analytics, Process Improvement and Decision Making Engineering"
 
     - university: "Tecnológico de Costa Rica"
       year: "2020-2021"
@@ -97,7 +97,7 @@ education:
       
     - university: "Tecnológico de Costa Rica"
       year: "2015-2020"
-      degree: "Bachelor of Science in Timber Engineering"
+      degree: "B.Sc. in Forestry Engineering"
 
 
 
